@@ -68,3 +68,11 @@ You create an object out of a class and that object has 1. attributes and 2. met
 So, Objects, attributes and methods. The succession terms makes a lot of sense when arranged that way.
 
 A method always returns the last expression that it has evaluated
+
+
+
+Defining learning path:
+1. https://www.codecademy.com/learn/ruby
+2. https://teamtreehouse.com/tracks/learn-ruby
+3. Only problems and projects and other students solutions from The Odin Project: http://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks?ref=lnav (Move on if you get stuck. Don't keep yourself stuck).
+4. Bastard's book of Ruby: http://ruby.bastardsbook.com/
