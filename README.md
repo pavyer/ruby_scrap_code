@@ -76,3 +76,4 @@ Defining learning path:
 2. https://teamtreehouse.com/tracks/learn-ruby
 3. Only problems and projects and other students solutions from The Odin Project: http://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks?ref=lnav (Move on if you get stuck. Don't keep yourself stuck).
 4. Bastard's book of Ruby: http://ruby.bastardsbook.com/
+5. Eloquent Ruby
